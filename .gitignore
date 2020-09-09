@@ -155,3 +155,11 @@ dmypy.json
 .pyre/
 
 
+### https://raw.github.com/github/gitignore/c1b7904af6689bd01646f008b0561d4f19a0e972/Global/Dropbox.gitignore
+
+# Dropbox settings and caches
+.dropbox
+.dropbox.attr
+.dropbox.cache
+
+
